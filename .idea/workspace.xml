@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c102f7c2-eb8b-4f5d-a2de-bbf25791bbff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1a2d8byiFXbIwazX0RBV9hDvXuF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../my_shellscripts" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c102f7c2-eb8b-4f5d-a2de-bbf25791bbff" name="Default Changelist" comment="" />
+      <created>1585937464006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585937464006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588132727803">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1588132727803" />
+    <state x="404" y="201" width="615" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590822363154">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="404" y="201" width="615" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1299.741@67.27.1299.741" timestamp="1590822363154" />
+    <state x="412" y="169" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1587042391332">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="412" y="169" width="624" height="526" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/67.27.1299.741@67.27.1299.741" timestamp="1587042391332" />
+    <state x="509" y="175" width="424" height="484" key="FileChooserDialogImpl" timestamp="1590822792507">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="509" y="175" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1590822792507" />
+    <state x="214" y="38" key="SettingsEditor" timestamp="1590330457940">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="214" y="38" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1590330457940" />
+    <state x="382" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1590808126081">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="382" y="245" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1590808126081" />
+    <state x="372" y="27" width="994" height="404" key="dock-window-1" timestamp="1589099212098">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="27" width="994" height="404" key="dock-window-1/67.27.1299.741@67.27.1299.741" timestamp="1589099212098" />
+    <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1588435953896">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1588435953896" />
+    <state x="380" y="175" key="run.anything.popup" timestamp="1589452532859">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="380" y="175" key="run.anything.popup/67.27.1299.741@67.27.1299.741" timestamp="1589452532859" />
+  </component>
+</project>

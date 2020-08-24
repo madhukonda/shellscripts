@@ -1,0 +1,15 @@
+#! /bin/bash
+i=5
+
+while [ $i -ge 0 ]; do
+  result=""
+j=$i
+       while [ $j -ge 0 ]; do
+           result="${result} ${j}"
+       ((j--))
+  done
+
+  echo $result
+
+((i--))
+done

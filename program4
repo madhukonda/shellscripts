@@ -1,0 +1,15 @@
+#!/bin/bash
+read x
+
+read y
+ val=`expr $x + $y `
+ echo $val
+val=`expr $x - $y `
+ echo $val
+
+val=`expr $x \* $y `
+ echo $val
+
+val=`expr $x / $y `
+ echo $val
+

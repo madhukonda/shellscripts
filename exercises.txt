@@ -1,0 +1,12 @@
+
+Exercise1:
+
+#1. check the  babu  folder exists in /home/home/madhu and then create  abc.txt file
+#in /home/madhu/babu
+
+3. if /home/madhu/babu exists then  create  abc.txt file  in /home/madhu/babu folder.
+
+
+1. check the folder  /home/madhu/rao/konda/xyx
+if not  exists then create  the  above folder  and  then  create rama.txt and ramatwo.txt
+if exists then  create rama.txt and ramaone.txt
